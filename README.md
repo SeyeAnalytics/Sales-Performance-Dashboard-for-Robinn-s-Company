@@ -1,7 +1,8 @@
 # Sales-Performance-Dashboard-for-Robinn-s-Company
 An interactive Power BI report that turns **$24.9M** of sales into one screen: who buys, where, what, and how revenue moved from **January 2015 to June 2017**.
 
-![Full dashboard](images/dashboard-full.png)
+<img width="1152" height="574" alt="dashboard-full" src="https://github.com/user-attachments/assets/71c5760c-084e-4fcb-b723-8ed6b80bcca3" />
+
 
 | | |
 |---|---|
@@ -47,7 +48,8 @@ Leadership at Robinn's Company had sales data but no quick way to see what was d
 
 ### Headline KPIs
 
-![KPIs](images/kpi.png)
+<img width="2304" height="180" alt="kpi" src="https://github.com/user-attachments/assets/7374c5d1-b3d5-44bd-9798-94a38f81336b" />
+
 
 | Metric | Value | What it means |
 |---|---|---|
@@ -58,7 +60,8 @@ Leadership at Robinn's Company had sales data but no quick way to see what was d
 
 ### Revenue by customer occupation
 
-![Occupation](images/occupation.png)
+<img width="800" height="416" alt="occupation" src="https://github.com/user-attachments/assets/6ac221c3-e551-4968-84e1-c552d55de490" />
+
 
 Professionals lead with **$8.5M** (about 34% of revenue), followed by Skilled Manual ($5.4M), Management ($4.6M), Clerical ($4.0M) and Manual ($2.5M). Professional and Skilled Manual customers together bring in over half of all sales.
 
@@ -66,7 +69,8 @@ Professionals lead with **$8.5M** (about 34% of revenue), followed by Skilled Ma
 
 ### Revenue by gender
 
-![Gender](images/gender.png)
+<img width="796" height="416" alt="gender" src="https://github.com/user-attachments/assets/6db2d7e5-815d-4eeb-91c9-4bf9e1cde78b" />
+
 
 Revenue is almost perfectly balanced: **50.23% female** and **49.14% male**. The remaining 0.63% has no gender recorded.
 
@@ -74,7 +78,8 @@ Revenue is almost perfectly balanced: **50.23% female** and **49.14% male**. The
 
 ### Revenue by region
 
-![Region](images/region.png)
+<img width="700" height="416" alt="region" src="https://github.com/user-attachments/assets/0f4260a7-d7aa-47a7-a9eb-f6f82b730d30" />
+
 
 Australia is the largest market at **$7.4M** (about 30%), then Southwest ($4.8M) and Northwest ($3.1M). These three regions generate roughly **61%** of revenue. The UK, Germany, France and Canada follow between $1.8M and $2.9M. Southeast, Northeast and Central show about $0.0M.
 
@@ -82,7 +87,8 @@ Australia is the largest market at **$7.4M** (about 30%), then Southwest ($4.8M)
 
 ### Revenue by category
 
-![Category](images/category.png)
+<img width="616" height="424" alt="category" src="https://github.com/user-attachments/assets/fb346b3f-babf-4e1f-8c19-72c16cc79f90" />
+
 
 Bikes make up **94.89%** of revenue. Accessories add 3.64% and clothing about 1.5%.
 
@@ -90,7 +96,8 @@ Bikes make up **94.89%** of revenue. Accessories add 3.64% and clothing about 1.
 
 ### Sales trend
 
-![Trend](images/trend.png)
+<img width="940" height="424" alt="trend" src="https://github.com/user-attachments/assets/f78b9530-88cc-4a87-bae9-cb3767dd7c76" />
+
 
 Monthly revenue hovered between about $0.3M and $0.7M through 2015 and early 2016. From August 2016 the line climbs steadily, reaching $1.6M in December 2016 and about $1.8M by June 2017.
 
@@ -98,7 +105,8 @@ Monthly revenue hovered between about $0.3M and $0.7M through 2015 and early 201
 
 ### Smart narrative
 
-![Narrative](images/narrative.png)
+<img width="740" height="424" alt="narrative" src="https://github.com/user-attachments/assets/6e02bc50-6c07-4ecb-9073-b20d833b325b" />
+
 
 Power BI's narrative visual writes the headline movements automatically and updates as filters change:
 
